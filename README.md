@@ -1,8 +1,10 @@
 # Powershell-study
 
-* 変数
- $変数 = 値
- $変数 = "文字列"
+* 変数 <br>
+ $変数 = 値<br>
+ $変数 = "文字列"<br>
+
+<br>
 
 * Function<br>
 　Function 関数名(引数) { 処理 }　　　　　　　※引数は省略可<br>
