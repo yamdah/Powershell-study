@@ -22,6 +22,17 @@
   | -lt | < |
   | -le | <= |
   
+<br>
+
+* パラメータ<br>
+  Param(<br>
+  [型]$変数1,<br>
+  [型]$変数2 = "へんすう"<br>
+　)<br>
+* スイッチパラメータ<br>
+<https://learn.microsoft.com/ja-jp/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters?view=powershell-7.4><br>
+
+<br>
 
 * Function<br>
 　Function 関数名(引数) { 処理 return(戻り値) }<br>
